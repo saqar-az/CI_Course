@@ -1,9 +1,9 @@
-# CI_HWs
+# CI_Course
 
 This repository contains homework assignments from my **Computational Intelligence** course at university.
 
 
-| Assignment | Description |
+| hws | Description |
 |---|------------|
 | **Hopfield Network** | Implement the Hopfield algorithm using NumPy. |
 | **TSP** | Solve the Traveling Salesman Problem for using a genetic algorithm. |
